@@ -1,16 +1,50 @@
-# React + Vite
+# React To-Do List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and user-friendly To-Do List application built using **React.js**.  
+Users can add tasks, mark them as completed using strike-through, and delete tasks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
 
-## React Compiler
+https://kaviya-react-todo.netlify.app/
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Add new tasks
+- Mark tasks as completed (strike-through)
+- Delete tasks
+- Clean and responsive UI
+- Built using React Hooks (`useState`)
+
+---
+
+## Technologies Used
+
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- Vite / Create React App
+
+---
+
+## Installation & Run Locally
+
+```bash
+npm install
+npm run dev
+```
+---
+
+## Author
+
+### Kaviya
+Computer Science Engineer
+
+Annamalai University
+
+---
+
